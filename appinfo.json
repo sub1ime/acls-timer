@@ -1,0 +1,17 @@
+{
+  "uuid": "0d37f548-966a-4816-85e7-3d82954e6ad7",
+  "shortName": "ACLS Timer",
+  "longName": "ACLS Timer",
+  "companyName": "Integrare Software",
+  "versionCode": 1,
+  "versionLabel": "0.1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
